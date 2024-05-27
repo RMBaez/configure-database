@@ -23,7 +23,7 @@ This tutorial outlines the foundation to understanding and implementing Azure re
 - Windows Server 2022
 - Windows 10 (21H2)
 
-<h2>High-Level Deployment and Configuration Steps</h2>
+<h2>Deployment and Configuration Steps</h2>
 
 - Task 1: Log into the Azure portal
 - Task 2:  Create your own resource group which you will use throughout the project and demonstrate your understanding of the importance of Resource Groups in resource management
