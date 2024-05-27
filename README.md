@@ -61,7 +61,6 @@ Task 2.
 
 <p>
 <img width="1440" alt="image" src="https://github.com/RMBaez/configure-database/assets/170957530/9206c676-f21c-4a06-9c6d-05139dfed1ac">
-<img width="1440" alt="image" src="https://github.com/RMBaez/configure-database/assets/170957530/cad48dac-a331-4521-8def-dc184a905abf">
 
 
 </p>
@@ -71,10 +70,11 @@ Task 3.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1440" alt="image" src="https://github.com/RMBaez/configure-database/assets/170957530/390e9ab3-52d3-4ad5-a0bf-3e4865ffadcd">
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Task 4.
 </p>
 <br />
 
