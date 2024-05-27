@@ -39,6 +39,8 @@ This tutorial outlines the foundation to understanding and implementing Azure re
 
 <p>
 <img width="1440" alt="image" src="https://github.com/RMBaez/configure-database/assets/170957530/9df6e855-7701-476b-abe7-de7886a01e11">
+<img width="1440" alt="image" src="https://github.com/RMBaez/configure-database/assets/170957530/6aba3fd5-5c93-49f7-bc29-da36cc1d3efb">
+
 
 </p>
 <p>
