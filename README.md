@@ -61,6 +61,8 @@ Task 2.
 
 <p>
 <img width="1440" alt="image" src="https://github.com/RMBaez/configure-database/assets/170957530/9206c676-f21c-4a06-9c6d-05139dfed1ac">
+<img width="1440" alt="image" src="https://github.com/RMBaez/configure-database/assets/170957530/cad48dac-a331-4521-8def-dc184a905abf">
+
 
 </p>
 <p>
