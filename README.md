@@ -25,10 +25,15 @@ This tutorial outlines the foundation to understanding and implementing Azure re
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Task 1: Log into the Azure portal
+- Task 2:  Create your own resource group which you will use throughout the project and demonstrate your understanding of the importance of Resource Groups in resource management
+- Task 3: Create an Azure Database for MySQL Server using the Azure Portal
+- Task 4: Configure access through the server firewall based on your IP address
+- Task 5: Connect to and authenticate with the Azure Database for MySQL Server
+- Task 6: Create a new database, load sample data and run queries against the data using the MySQL command line tool
+- Task 7: Update and query data in the new database and restore data to a point in time
+- Task 8: Restore the database to a specific point in time
+- Task 9: Clean up and delete unwanted resources to reduce costs
 
 <h2>Deployment and Configuration Steps</h2>
 
