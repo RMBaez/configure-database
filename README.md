@@ -51,6 +51,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <p>
 <img width="1440" alt="image" src="https://github.com/RMBaez/configure-database/assets/170957530/8ec97307-1c0c-437c-935c-dd1c764e602f">
 <img width="1440" alt="image" src="https://github.com/RMBaez/configure-database/assets/170957530/d99e7d00-cad4-4742-8aaf-0b8279f67713">
+<img width="1440" alt="image" src="https://github.com/RMBaez/configure-database/assets/170957530/69704a49-bc86-4b59-97e5-26ede7edf76c">
 
 
 </p>
