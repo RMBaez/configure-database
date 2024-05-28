@@ -90,10 +90,15 @@ Task 5.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1440" alt="image" src="https://github.com/RMBaez/configure-database/assets/170957530/9ed3a75d-6419-4e95-9eda-1dd561649bcf">
+<img width="1440" alt="image" src="https://github.com/RMBaez/configure-database/assets/170957530/ff3d347e-7eb5-43c2-ae7c-f56f6ca623b1">
+<img width="1440" alt="image" src="https://github.com/RMBaez/configure-database/assets/170957530/0b1276c1-4523-4767-a8c4-99fd12465a4b">
+<img width="1440" alt="image" src="https://github.com/RMBaez/configure-database/assets/170957530/18fbf97c-0866-4118-a910-7a5a1cf4fcd0">
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Task 6.
 </p>
 <br />
 
