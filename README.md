@@ -10,15 +10,12 @@ This tutorial outlines the foundation to understanding and implementing Azure re
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Active Directory Domain Services
-- PowerShell
+- Microsoft Azure AD
+- Bash
 
 <h2>Operating Systems Used </h2>
 
-- Windows Server 2022
-- Windows 10 (21H2)
+
 
 <h2>Deployment and Configuration Steps</h2>
 
