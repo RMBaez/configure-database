@@ -12,6 +12,8 @@ This tutorial outlines the foundation to understanding and implementing Azure re
 
 - Microsoft Azure AD
 - Bash
+- Firewall
+- MySQL
 
 <h2>Operating Systems Used </h2>
 
