@@ -15,8 +15,6 @@ This tutorial outlines the foundation to understanding and implementing Azure re
 - Firewall
 - MySQL
 
-<h2>Operating Systems Used </h2>
-
 
 
 <h2>Deployment and Configuration Steps</h2>
