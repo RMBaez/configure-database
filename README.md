@@ -103,17 +103,24 @@ Task 6.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1440" alt="image" src="https://github.com/RMBaez/configure-database/assets/170957530/bd9bca2a-2de2-4c81-8a09-bcabf3c4586e">
+<img width="1440" alt="image" src="https://github.com/RMBaez/configure-database/assets/170957530/0bc5f2dd-9fdb-4d12-85b8-dcf266d15e99">
+
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Task 7.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1440" alt="image" src="https://github.com/RMBaez/configure-database/assets/170957530/32b8c522-2a5f-4518-aded-26eed4bc70cf">
+<img width="1440" alt="image" src="https://github.com/RMBaez/configure-database/assets/170957530/9fc8b287-7d91-4a4c-baee-eaeb30dd282a">
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Task 8.
 </p>
 <br />
